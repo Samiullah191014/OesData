@@ -8,7 +8,7 @@
 "instructor":"Jacke Masito",
 "categories":"Language",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -30,7 +30,7 @@
 "instructor":"Judith Stevens",
 "categories":"IT & Software",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -109,7 +109,7 @@
 "instructor":"Edy Bowman",
 "categories":"Programming Languages",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -120,7 +120,7 @@
 "instructor":"Sophy Janer",
 "categories":"Art & Design",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -131,7 +131,7 @@
 "instructor":"Nicholas Butler",
 "categories":"Business",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -153,7 +153,7 @@
 "instructor":"Edy Bowman",
 "categories":"Programming Languages",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -164,7 +164,7 @@
 "instructor":"Edy Bowman",
 "categories":"Programming Languages",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -175,7 +175,7 @@
 "instructor":"Jill King",
 "categories":"Language",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 },
 
@@ -219,7 +219,7 @@
 "instructor":"Edy Bowman",
 "categories":"Programming Languages",
 "Rating":"5",
-"price":"Free",
+"price":"50",
 "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
 }
 
